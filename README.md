@@ -87,17 +87,18 @@ The dashboard then shows the resulting capacity, utilization, breach periods and
 ## Project Files
 
 ### `dashboard.py`
+
 The Streamlit dashboard for testing the different scenarios.
 
 ### `DS26_Healthcare_DSS_Data_Harmonization.ipynb`
+
 Jupyter Notebook used for data preparation and harmonisation.
 
 ### `DSS_Final_Report_99871705_74937166.pdf`
+
 The final academic project report.
 
 ### CSV files
+
 The repository also contains the datasets and simulation results used in the project.
 
-
-  ↓
-Scenario Comparison
